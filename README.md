@@ -9,7 +9,7 @@ I'm Arman Hossain, a dynamic and enthusiastic BSc CSE student with a strong pass
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on MERN stack Web Development .
-- 🌱 I’m currently learning Next.js
+- 🌱 I’m currently learning New Code Langs
 - 👯 I’m looking to collaborate on open-source projects that build my expertise on Web Development Field
 - 🤔 I’m looking for help with exploring  Machine Learning (ML)
 - 💬 Ask me about React, Tailwind CSS, building EdTech platforms, or how to get started with MERN stack development.
