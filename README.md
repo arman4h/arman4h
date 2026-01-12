@@ -3,6 +3,7 @@
 🚀 **BSc in Computer Science & Engineering (CSE)**  
 💻 **Full Stack Developer | Course Contributor/Co-Ordinator | Explroing Robotics , ML**  
 🌱 Passionate about building real-world web applications and learning modern technologies
+
 💼 **Check out my projects here:** [My Projects](https://www.armanh.net/projects) 🔗
 
 
