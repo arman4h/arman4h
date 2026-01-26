@@ -1,32 +1,16 @@
 # 👋 Hi, I’m Arman Hossain
 
-🚀 **BSc in Computer Science & Engineering (CSE)**  
-💻 **Full Stack Developer | Course Contributor/Co-Ordinator | Explroing Robotics , ML**  
-🌱 Passionate about building real-world web applications and learning modern technologies
+
+💻 **CSE Student | Full Stack Developer | Course Contributor/Co-Ordinator **
+🚀 **Building real-world web apps | Exploring ML, AI & Robotics**  
 
 💼 **Check out my projects here:** [My Projects](https://www.armanh.net/projects) 🔗
 
-
 ---
 
-## 👨‍💻 About Me
-
-I’m a  **CSE student** focused on **full-stack web development** with a growing interest in  
-**Machine Learning (ML), Artificial Intelligence (AI), Robotics and scalable backend systems**.
-
-I enjoy:
-- Building modern, production-ready web apps
-- Exploring modern techs 
-- Learning by building projects
-- Contributing to education and open-source communities
-
-🎓 Currently working as a **Course Contributor at ACS Group** which in a growing edtech company.
-
----
-
-## 🤝 I’m Looking For
-- 👯 Collaboration on **open-source web development projects**
-- 💡 Opportunities to work on **real-world problem-solving products**
+## 🤝 Looking For
+- 👯 **open-source web development projects**
+- 💡 **real-world problem-solving products**
 
 ---
 
