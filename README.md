@@ -7,14 +7,11 @@
 💼 **Check out my projects here:** [My Projects](https://www.armanh.net/projects) 🔗
 
 ---
-
 ## 🤝 Looking For
 - 👯 **open-source web development projects**
 - 💡 **real-world problem-solving products**
-
 ---
 
--->
 ## 📫 To Reach Me
 📧 **Email me at:** hossain4arman@gmail.com  
 🌐 **LinkedIn:** [linkedin.com/in/arman4hossain](https://linkedin.com/in/arman4hossain)
