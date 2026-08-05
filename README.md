@@ -14,7 +14,7 @@
 
 ## 📫 To Reach Me
 📧 **Email me at:** hossain4arman@gmail.com  
-🌐 **LinkedIn:** [linkedin.com/in/arman4hossain](https://linkedin.com/in/arman4hossain)
+🌐 **LinkedIn:** [linkedin.com/in/arman4h](https://linkedin.com/in/arman4h)
 
 ---
 
